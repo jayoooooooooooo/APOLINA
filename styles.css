@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    background-color: #e2e2e2;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+.member {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 10px 0;
+}
+
+.member h2 {
+    margin: 0 0 10px;
+}
+
+.member p {
+    margin: 5px 0;
+}
+
+footer {
+    text-align: center;
+    border-top: 1px solid #ddd;
+    padding: 10px;
+    margin-top: 20px;
+}
